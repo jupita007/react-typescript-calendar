@@ -1,0 +1,3 @@
+The Calendar.tsx file defines a React component that displays a monthly calendar with navigation controls. Here’s a user-friendly description:
+
+This component shows a calendar for the current month, allowing users to move forward or backward by month using "Next" and "Back" buttons. The calendar displays each week in rows, with days from the previous and next months filling out the grid as needed. The current month and year are shown at the top. There are also placeholders for adding and deleting events, though these features are not fully implemented in the visible code. The calendar is styled using a separate SCSS file and is designed to be visually organized and easy to navigate.
